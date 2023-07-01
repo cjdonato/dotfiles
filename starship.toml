@@ -30,7 +30,7 @@ format = '[$ssh_symbol$hostname](bold red)'
 [kubernetes]
 disabled = false
 symbol = '⎈ '
-detect_files = ['k8s']
+# detect_files = ['k8s']
 
 # Local IP
 [localip]
