@@ -7,7 +7,7 @@ abbr which  "type -a"
 abbr ..  "cd .."
 abbr ...  "cd ../.."
 
-abbr ls  "exa -lag --header"
+abbr ls  "exa  --header -lg"
 abbr k  "kubectl"
 abbr tf "terraform"
 abbr python  "python3"

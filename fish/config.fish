@@ -26,3 +26,5 @@ if test -f /home/mkd/miniconda3/bin/conda
 end
 # <<< conda initialize <<<
 
+# asdf
+source ~/.asdf/asdf.fish
