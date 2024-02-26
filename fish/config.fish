@@ -20,10 +20,6 @@ source $HOME/.config/fish/conf.d/abbr.fish
 # Starship
 starship init fish | source
 
-# ASDF
-# source ~/.asdf/asdf.fish
-source /home/linuxbrew/.linuxbrew/opt/asdf/libexec/asdf.fish
-
 # Zoxide
 zoxide init fish | source
 
