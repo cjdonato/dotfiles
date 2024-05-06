@@ -2,3 +2,6 @@
 node = "lts"
 usage = "latest"
 go = "latest"
+
+[env]
+VAULT_ADDR = "https://vault.kube.kaientai.xyz"
